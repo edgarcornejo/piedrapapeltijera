@@ -9,4 +9,7 @@ Juego de piedra, papel o tijera hecho con HTML, CSS y JavaScript. Base generado 
     - Puntuación acumulativa.
     - Boton de reiniciar juego.
 
+## Enlaces
 
+    - [GitHub](https://github.com/devcornejo/piedrapapeltijera)
+    - [Demo](https://devcornejo.github.io/piedrapapeltijera/)
